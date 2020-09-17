@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt text](https://static.dribbble.com/users/1668884/screenshots/14189867/media/aa418d9a5d5a407c0459208418cb599e.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
